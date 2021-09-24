@@ -1,6 +1,6 @@
 # Hi, I am Angelica Figueroa <img  src="https://user-images.githubusercontent.com/57752459/129292732-0ab2b276-2918-4b01-b815-0c3ea240016c.gif" width="30px">
 <a href="https://twitter.com/angelicaf9813"><img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px">&nbsp;</a>
-<a href="www.linkedin.com/in/angelica-figueroa-muñiz-89a03a1b8">&nbsp;<img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px">&nbsp;</a>
+<a href="https://www.linkedin.com/in/angelica-figueroa-muñiz-89a03a1b8">&nbsp;<img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px">&nbsp;</a>
 <a href="https://www.instagram.com/angelicaf98/">&nbsp;<img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px">&nbsp;</a>
 <a href="#">&nbsp;<img alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="22px">&nbsp;</a>
 
