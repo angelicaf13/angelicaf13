@@ -8,7 +8,7 @@
 <!--
 **angelicaf13/angelicaf13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-I'm a <b>Computer Engineer</b> 👩‍💻 from México, graduated in <b>2021</b> from <b>Universidad Autónoma de Baja California</b>  🌵. I'm currently learning about Full Stack Web Development technologies and I'm workin on an e-commerce website project. I'm a <b>passionate learner</b> and love to explore and discover new technologies (and places). I love photography and consider myself a design enthusiast, in my free time I like to watch movies and read. I am open to collaborate on interesting projects. 😄
+I'm a <b>Computer Engineer</b> 👩‍💻 from México, graduated in <b>2021</b> from <b>Universidad Autónoma de Baja California</b>  🌵. I'm currently following the Three.js Journey course and learning about iOS development. I'm a <b>passionate learner</b> and love to explore and discover new technologies (and places). I love photography and consider myself a design enthusiast, in my free time I like to watch movies and read. I am open to collaborate on interesting projects. 😄
 
 ## Languages & Tools
 ### Programming Languages
